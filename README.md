@@ -1,6 +1,5 @@
 
 
-https://github.com/user-attachments/assets/1ba604e8-ff34-4201-ad7d-92ea38f8e4f5
 
 # CodeAlpha_My-Image-Gallery
 #  My Image Gallery
